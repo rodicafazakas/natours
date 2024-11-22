@@ -25,6 +25,11 @@
   color: $color-grey-dark;
 }
 
+.btn--green {
+  background-color: $color-primary;
+  color: $color-white;
+}
+
 .btn::after {
   content:"";
   display: inline-block;
